@@ -1,0 +1,1 @@
+D:\06. Universal App\NotePadApp01\NotePadApp01.csproj;x86
